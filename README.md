@@ -28,9 +28,12 @@ A responsive and modern **Admin Dashboard** built with React.js, designed to hel
 - **npm start**
 - **Visit: http://localhost:3000**
 ---
-## 📽️ Demo Video
-**Watch the project in action:**
-[🎬 Click to Watch the Demo](https://drive.google.com/file/d/1L-fe0n5EI5uReHaKzSeYWxlmSp1P1X5n/view?usp=sharing)
+## 📦 Project Files
+
+You can download the full project and supporting files below:
+
+- 🔗 [Download Project ZIP (Google Drive)](https://drive.google.com/file/d/1OuqS2JRrr0kq2O4zzwg5d4WLoohEdT_O/view?usp=sharing)
+- 🎬 [Click to Watch the Demo Video](https://drive.google.com/file/d/1L-fe0n5EI5uReHaKzSeYWxlmSp1P1X5n/view?usp=sharing)
 
 ---
 ## ✅ Conclusion
