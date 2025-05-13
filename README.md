@@ -12,28 +12,6 @@ A responsive and modern **Admin Dashboard** built with React.js, designed to hel
 - 🧑‍💼 Resident data table with search, visual enhancements, and full-width styling
 - 🌐 Responsive layout using CSS Grid and Flexbox
 - 🎨 Dark theme styling with consistent colors
----
-## 🗂️ Project Structure
-
-src/
-│
-├── pages/
-│ ├── Products.jsx
-│ ├── Categories.jsx
-│ ├── Customers.jsx
-│ ├── Inventory.jsx
-│ ├── Reports.jsx
-│ ├── Settings.jsx
-│ ├── Residents.jsx
-│ └── Login.jsx
-│
-├── components/
-│ ├── Header.jsx
-│ └── Sidebar.jsx
-│
-├── App.jsx
-├── App.css
-└── index.js
 
 ---
 ## 🎨 Tech Stack
@@ -76,5 +54,4 @@ Feel free to reach out:
 
 - **Email:** nallaakanksha369@gmail.com
 - **LinkedIn:** [linkedin.com/in/AkankshaNalla](https://www.linkedin.com/in/akanksha-nalla-53916025b)  
-- **GitHub:** [github.com/Akankshanalla]()
 
