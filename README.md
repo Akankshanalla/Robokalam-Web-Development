@@ -25,7 +25,7 @@ A responsive and modern **Admin Dashboard** built with React.js, designed to hel
 
 - **npm install**
 - **cd adminpanel**
-- **npm start**
+- **npm run dev**
 - **Visit: http://localhost:3000**
 ---
 ## 📦 Project Files
